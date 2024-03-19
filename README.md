@@ -8,6 +8,9 @@ This project implements the Sandglass block from the MobileNeXt paper (https://a
 
 ### Blogs
 
+This repository was created as part of a larger blog written on the MobileNeXt Network and can be found here:
+
+https://nathanbaileyw.medium.com/the-mobilenext-architecture-explained-rethinking-the-inverted-residual-block-leads-to-greater-2d919227c89a
 
 ### Where is the code?
 
